@@ -50,8 +50,8 @@
         margin: 0 auto 5px; /* Adiciona margem na parte inferior da imagem */
     }
     .img1 {
-        max-width: 130px;/*tamanho original 130px*/
-        height: 130px;/*tamanho original 130px*/
+        max-width: 120px;/*tamanho original 130px*/
+        height: 120px;/*tamanho original 130px*/
         display: block;
         margin: 0 auto; /* Remova a margem superior */ /*margin:0 50px;/* Adiciona margem na parte inferior da imagem */
         margin-bottom: 7%;
@@ -130,3 +130,4 @@
         }
 
     }
+
