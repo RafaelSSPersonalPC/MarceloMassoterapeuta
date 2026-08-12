@@ -51,7 +51,7 @@
     }
     .img1 {
         max-width: 330px;/*tamanho original 130px Logo*/
-        height: 170px;/*tamanho original 130px*/
+        height: 150px;/*tamanho original 130px*/
         display: block;
         margin: 0 auto; /* Remova a margem superior */ /*margin:0 50px;/* Adiciona margem na parte inferior da imagem */
         margin-bottom: 7%;
